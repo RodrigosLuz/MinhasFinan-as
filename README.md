@@ -1,2 +1,2 @@
-# MinhasFinan-as
+# MinhasFinancas
 Gerenciador de Finanças
